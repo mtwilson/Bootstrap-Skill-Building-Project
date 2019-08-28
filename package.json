@@ -1,0 +1,19 @@
+{
+  "name": "confusion",
+  "version": "1.0.0",
+  "description": "Skill building with Bootstrap, JavaScript, CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtwilson/Bootstrap-Skill-Building-Project.git"
+  },
+  "author": "Michael Wilson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mtwilson/Bootstrap-Skill-Building-Project/issues"
+  },
+  "homepage": "https://github.com/mtwilson/Bootstrap-Skill-Building-Project#readme"
+}
